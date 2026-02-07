@@ -61,4 +61,4 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE] para
 
 ---
 
-Desenvolvido por [Seu Nome].
+Desenvolvido por Vinicius Morais.
